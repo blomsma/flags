@@ -1,0 +1,9 @@
+node_modules
+dist/
+data/
+backups/
+transfer/
+.env
+*.log
+playwright-report/
+test-results/
