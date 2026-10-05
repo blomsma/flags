@@ -1,0 +1,590 @@
+[
+  {
+    "id": "event-al",
+    "code": "AL",
+    "name": "Albania",
+    "imageUrl": "/event-flags/al.svg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-dz",
+    "code": "DZ",
+    "name": "Algeria",
+    "imageUrl": "/event-flags/dz.jpg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-ar",
+    "code": "AR",
+    "name": "Argentina",
+    "imageUrl": "/event-flags/ar.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-am",
+    "code": "AM",
+    "name": "Armenia",
+    "imageUrl": "/event-flags/am.webp",
+    "source": "supplied"
+  },
+  {
+    "id": "event-au",
+    "code": "AU",
+    "name": "Australia",
+    "imageUrl": "/flags/4x3/au.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-at",
+    "code": "AT",
+    "name": "Austria",
+    "imageUrl": "/flags/4x3/at.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-az",
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "imageUrl": "/event-flags/az.webp",
+    "source": "supplied"
+  },
+  {
+    "id": "event-be",
+    "code": "BE",
+    "name": "Belgium",
+    "imageUrl": "/flags/4x3/be.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-br",
+    "code": "BR",
+    "name": "Brazil",
+    "imageUrl": "/flags/4x3/br.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-bg",
+    "code": "BG",
+    "name": "Bulgaria",
+    "imageUrl": "/event-flags/bg.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-ca",
+    "code": "CA",
+    "name": "Canada",
+    "imageUrl": "/flags/4x3/ca.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-cl",
+    "code": "CL",
+    "name": "Chile",
+    "imageUrl": "/flags/4x3/cl.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-tw",
+    "code": "TW",
+    "name": "Chinese Taipei",
+    "imageUrl": "/event-flags/tw.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-co",
+    "code": "CO",
+    "name": "Colombia",
+    "imageUrl": "/flags/4x3/co.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-cr",
+    "code": "CR",
+    "name": "Costa Rica",
+    "imageUrl": "/flags/4x3/cr.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-hr",
+    "code": "HR",
+    "name": "Croatia",
+    "imageUrl": "/flags/4x3/hr.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-cu",
+    "code": "CU",
+    "name": "Cuba",
+    "imageUrl": "/flags/4x3/cu.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-cy",
+    "code": "CY",
+    "name": "Cyprus",
+    "imageUrl": "/event-flags/cy.jpg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-cz",
+    "code": "CZ",
+    "name": "Czechia",
+    "imageUrl": "/event-flags/cz.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-dk",
+    "code": "DK",
+    "name": "Denmark",
+    "imageUrl": "/event-flags/dk.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-do",
+    "code": "DO",
+    "name": "Dominican Republic",
+    "imageUrl": "/flags/4x3/do.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-ec",
+    "code": "EC",
+    "name": "Ecuador",
+    "imageUrl": "/flags/4x3/ec.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-eg",
+    "code": "EG",
+    "name": "Egypt",
+    "imageUrl": "/event-flags/eg.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-sv",
+    "code": "SV",
+    "name": "El Salvador",
+    "imageUrl": "/flags/4x3/sv.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-fi",
+    "code": "FI",
+    "name": "Finland",
+    "imageUrl": "/flags/4x3/fi.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-fr",
+    "code": "FR",
+    "name": "France",
+    "imageUrl": "/event-flags/fr.svg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-ge",
+    "code": "GE",
+    "name": "Georgia",
+    "imageUrl": "/event-flags/ge.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-de",
+    "code": "DE",
+    "name": "Germany",
+    "imageUrl": "/event-flags/de.jpg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-gb",
+    "code": "GB",
+    "name": "Great Britain",
+    "imageUrl": "/event-flags/gb.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-gr",
+    "code": "GR",
+    "name": "Greece",
+    "imageUrl": "/event-flags/gr.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-gt",
+    "code": "GT",
+    "name": "Guatemala",
+    "imageUrl": "/event-flags/gt.jpeg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-hn",
+    "code": "HN",
+    "name": "Honduras",
+    "imageUrl": "/flags/4x3/hn.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-hk",
+    "code": "HK",
+    "name": "Hong Kong, China",
+    "imageUrl": "/flags/4x3/hk.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-hu",
+    "code": "HU",
+    "name": "Hungary",
+    "imageUrl": "/event-flags/hu.jpg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-is",
+    "code": "IS",
+    "name": "Iceland",
+    "imageUrl": "/event-flags/is.svg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-in",
+    "code": "IN",
+    "name": "India",
+    "imageUrl": "/flags/4x3/in.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-id",
+    "code": "ID",
+    "name": "Indonesia",
+    "imageUrl": "/flags/4x3/id.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-ie",
+    "code": "IE",
+    "name": "Ireland",
+    "imageUrl": "/event-flags/ie.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-ir",
+    "code": "IR",
+    "name": "Islamic Republic of Iran",
+    "imageUrl": "/flags/4x3/ir.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-il",
+    "code": "IL",
+    "name": "Israel",
+    "imageUrl": "/event-flags/il.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-it",
+    "code": "IT",
+    "name": "Italy",
+    "imageUrl": "/event-flags/it.webp",
+    "source": "supplied"
+  },
+  {
+    "id": "event-jm",
+    "code": "JM",
+    "name": "Jamaica",
+    "imageUrl": "/flags/4x3/jm.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-jp",
+    "code": "JP",
+    "name": "Japan",
+    "imageUrl": "/event-flags/jp.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-kz",
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "imageUrl": "/flags/4x3/kz.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-li",
+    "code": "LI",
+    "name": "Liechtenstein",
+    "imageUrl": "/event-flags/li.jpg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-lt",
+    "code": "LT",
+    "name": "Lithuania",
+    "imageUrl": "/flags/4x3/lt.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-lu",
+    "code": "LU",
+    "name": "Luxembourg",
+    "imageUrl": "/flags/4x3/lu.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-my",
+    "code": "MY",
+    "name": "Malaysia",
+    "imageUrl": "/flags/4x3/my.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-mt",
+    "code": "MT",
+    "name": "Malta",
+    "imageUrl": "/flags/4x3/mt.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-mx",
+    "code": "MX",
+    "name": "Mexico",
+    "imageUrl": "/flags/4x3/mx.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-mn",
+    "code": "MN",
+    "name": "Mongolia",
+    "imageUrl": "/flags/4x3/mn.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-ma",
+    "code": "MA",
+    "name": "Morocco",
+    "imageUrl": "/flags/4x3/ma.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-mm",
+    "code": "MM",
+    "name": "Myanmar",
+    "imageUrl": "/flags/4x3/mm.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-nl",
+    "code": "NL",
+    "name": "Netherlands",
+    "imageUrl": "/event-flags/nl.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-nz",
+    "code": "NZ",
+    "name": "New Zealand",
+    "imageUrl": "/flags/4x3/nz.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-no",
+    "code": "NO",
+    "name": "Norway",
+    "imageUrl": "/event-flags/no.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-pa",
+    "code": "PA",
+    "name": "Panama",
+    "imageUrl": "/flags/4x3/pa.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-cn",
+    "code": "CN",
+    "name": "People's Republic of China",
+    "imageUrl": "/flags/4x3/cn.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-pe",
+    "code": "PE",
+    "name": "Peru",
+    "imageUrl": "/flags/4x3/pe.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-ph",
+    "code": "PH",
+    "name": "Philippines",
+    "imageUrl": "/flags/4x3/ph.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-pl",
+    "code": "PL",
+    "name": "Poland",
+    "imageUrl": "/flags/4x3/pl.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-pt",
+    "code": "PT",
+    "name": "Portugal",
+    "imageUrl": "/event-flags/pt.jpg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-pr",
+    "code": "PR",
+    "name": "Puerto Rico",
+    "imageUrl": "/event-flags/pr.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-qa",
+    "code": "QA",
+    "name": "Qatar",
+    "imageUrl": "/flags/4x3/qa.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-kr",
+    "code": "KR",
+    "name": "Republic of Korea",
+    "imageUrl": "/event-flags/kr.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-ro",
+    "code": "RO",
+    "name": "Romania",
+    "imageUrl": "/event-flags/ro.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-rs",
+    "code": "RS",
+    "name": "Serbia",
+    "imageUrl": "/event-flags/rs.jpg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-sg",
+    "code": "SG",
+    "name": "Singapore",
+    "imageUrl": "/event-flags/sg.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-sk",
+    "code": "SK",
+    "name": "Slovakia",
+    "imageUrl": "/event-flags/sk.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-si",
+    "code": "SI",
+    "name": "Slovenia",
+    "imageUrl": "/flags/4x3/si.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-za",
+    "code": "ZA",
+    "name": "South Africa",
+    "imageUrl": "/flags/4x3/za.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-es",
+    "code": "ES",
+    "name": "Spain",
+    "imageUrl": "/event-flags/es.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-se",
+    "code": "SE",
+    "name": "Sweden",
+    "imageUrl": "/event-flags/se.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-ch",
+    "code": "CH",
+    "name": "Switzerland",
+    "imageUrl": "/flags/4x3/ch.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-th",
+    "code": "TH",
+    "name": "Thailand",
+    "imageUrl": "/event-flags/th.jpg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-tt",
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "imageUrl": "/flags/4x3/tt.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-tn",
+    "code": "TN",
+    "name": "Tunisia",
+    "imageUrl": "/flags/4x3/tn.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-tr",
+    "code": "TR",
+    "name": "Türkiye",
+    "imageUrl": "/event-flags/tr.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-ua",
+    "code": "UA",
+    "name": "Ukraine",
+    "imageUrl": "/flags/4x3/ua.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-us",
+    "code": "US",
+    "name": "United States of America",
+    "imageUrl": "/event-flags/us.png",
+    "source": "supplied"
+  },
+  {
+    "id": "event-uz",
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "imageUrl": "/flags/4x3/uz.svg",
+    "source": "flag-icons"
+  },
+  {
+    "id": "event-zw",
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "imageUrl": "/event-flags/zw.svg",
+    "source": "supplied"
+  },
+  {
+    "id": "event-wg1",
+    "code": null,
+    "name": "World Gymnastics 1",
+    "imageUrl": null,
+    "source": "missing"
+  },
+  {
+    "id": "event-wg2",
+    "code": null,
+    "name": "World Gymnastics 2",
+    "imageUrl": null,
+    "source": "missing"
+  }
+]

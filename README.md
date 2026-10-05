@@ -2,6 +2,16 @@
 
 3D-vlaggenceremonie met een aparte bediening, live synchronisatie via WebSocket en een REST-API voor show control. De app draait volledig lokaal. Landenvlaggen, achtergrondmedia, de huidige serverinstellingen en alle broncode zijn inbegrepen.
 
+## Landen en vlaggen voor het evenement
+
+De selectie volgt de aangeleverde lijst: 82 landen plus World Gymnastics 1 en 2. Namen zoals Chinese Taipei, Hong Kong, China, Great Britain en Türkiye staan zoals opgegeven in de bediening.
+
+39 vlaggen komen uit het aangeleverde archief. Chinese Taipei gebruikt de aangeleverde comitévlag. Voor Frankrijk is alleen de horizontale vlag uit de PDF overgenomen, met dezelfde kleuren; tekst en kleurreferenties zijn weggelaten. Bij Denemarken zijn de witte marges van het referentieblad verwijderd. Grote bronafbeeldingen zijn verkleind tot maximaal 1920×1280 om het geheugengebruik te beperken; het bronbestand en de omzetting staan in het bronoverzicht. De andere 43 landen gebruiken de meegeleverde SVG-vlaggen van `flag-icons`. Alle afbeeldingen werken zonder Dropbox of internet.
+
+**World Gymnastics 1 en 2 ontbreken in het archief.** Deze staan zichtbaar maar uitgeschakeld in de selectie totdat hun afbeeldingen zijn aangeleverd. Je kunt ze ondertussen als eigen vlag uploaden. Eigen uploads en bestaande presets blijven werken, ook voor landen buiten de evenementlijst.
+
+De lijst staat in `src/shared/event-flags.json`, aangeleverde afbeeldingen in `public/event-flags/` en bronbestanden met SHA-256-controlesommen in `docs/event-flags-sources.json`. Nieuwe installaties en Docker-builds nemen deze afbeeldingen automatisch mee. Bestaande Docker-installaties krijgen de update met `git pull` en het startscript; instellingen en uploads blijven in het volume.
+
 ## Installeren
 
 Installeer **Docker met Compose v2.24 of nieuwer** en Git op de NUC. Linux: [Docker Engine voor Ubuntu](https://docs.docker.com/engine/install/ubuntu/) met de [Compose-plugin](https://docs.docker.com/compose/install/linux/). Windows: [Docker Desktop](https://docs.docker.com/desktop/setup/install/windows-install/), met Linux-containers. Je hebt geen losse Node-installatie nodig. Houd minimaal 3 GB vrije ruimte beschikbaar, plus ruimte voor eigen uploads en back-ups.

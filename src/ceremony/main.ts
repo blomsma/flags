@@ -1,4 +1,5 @@
 import * as THREE from 'three';
+import { resolveFlag } from '../shared/event-flags';
 import {
   DEFAULT_SETTINGS,
   normalizeSettings,
@@ -224,8 +225,16 @@ function configureCloth(cloth: ClothSimulation): void {
   if (typeof configurableCloth.setSelfCollisionOptions === 'function') configurableCloth.setSelfCollisionOptions(settings.cloth);
 }
 function loadFlagTexture(flag: ActiveFlag, token: number): void {
-  const custom = settings.customFlags.find((item) => item.id === flag.slot.flagId);
-  const source = custom?.imageUrl ?? `/flags/4x3/${encodeURIComponent(flag.slot.countryCode.trim().toLowerCase())}.svg`;
+  const resolved = resolveFlag(flag.slot, settings.customFlags);
+  const source = resolved.imageUrl;
+  if (!source) {
+    flag.material.map?.dispose();
+    flag.material.map = null;
+    flag.material.color.set('#ffffff');
+    flag.material.needsUpdate = true;
+    if (token === buildToken) setWarning(`Flag image not supplied: ${resolved.name}`);
+    return;
+  }
   const image = new Image();
   image.decoding = 'async';
   image.onload = () => {
@@ -257,7 +266,7 @@ function loadFlagTexture(flag: ActiveFlag, token: number): void {
     flag.material.needsUpdate = true;
   };
   image.onerror = () => {
-    if (token === buildToken) setWarning(`Flag asset missing: ${flag.slot.countryCode.toUpperCase()}`);
+    if (token === buildToken) setWarning(`Flag asset missing: ${resolved.name}`);
   };
   image.src = source;
 }
@@ -587,8 +596,7 @@ function topologySignature(value: CeremonySettings): string {
   return JSON.stringify({ width: value.flagWidth, height: value.flagHeight, resolution: value.meshResolution, slots: value.slots.map((slot) => [slot.id, slot.rank]) });
 }
 function slotTextureKey(slot: CeremonySlot, value: CeremonySettings): string {
-  const custom = value.customFlags.find((item) => item.id === slot.flagId);
-  return custom?.imageUrl ?? slot.countryCode.trim().toLowerCase();
+  return resolveFlag(slot, value.customFlags).imageUrl ?? `missing:${slot.flagId ?? slot.countryCode}`;
 }
 function updateTransforms(value: CeremonySettings): void {
   const count = Math.max(1, value.slots.length);

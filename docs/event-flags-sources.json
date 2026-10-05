@@ -1,0 +1,314 @@
+[
+  {
+    "code": "AL",
+    "name": "Albania",
+    "sourceFile": "Tim/Albanië/Flag_of_Albania.svg",
+    "sourceSha256": "3f241fb4f5393daf4a9098fd1486c8e801216ffe698ff8f7601f33968761100d",
+    "assetSha256": "3f241fb4f5393daf4a9098fd1486c8e801216ffe698ff8f7601f33968761100d",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "sourceFile": "Tim/Algerije/Algeria Flag.jpg",
+    "sourceSha256": "b5e12ff5f06f142fe2ec7f5e91b99dd99685cd9038f1330234d996c69965dc51",
+    "assetSha256": "b5e12ff5f06f142fe2ec7f5e91b99dd99685cd9038f1330234d996c69965dc51",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "sourceFile": "Tim/Argentinië/banderaargentina.png",
+    "sourceSha256": "8d659bb83791c321c6535de4c080cfc5bce1fd72fe437872831e4f07efde1920",
+    "assetSha256": "8d659bb83791c321c6535de4c080cfc5bce1fd72fe437872831e4f07efde1920",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "sourceFile": "Tim/Armenia/Flag_of_Armenia.webp",
+    "sourceSha256": "862b892793f92c822becc5dc7fe5e35d37a40df702f02882db49a5bb091ca16d",
+    "assetSha256": "862b892793f92c822becc5dc7fe5e35d37a40df702f02882db49a5bb091ca16d",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "sourceFile": "Tim/Azerbaidzjan/Flag of Azerbaijan.webp",
+    "sourceSha256": "001e565f9d7acca08186bd497dda86d297d08a58559e319f978548aff1598452",
+    "assetSha256": "001e565f9d7acca08186bd497dda86d297d08a58559e319f978548aff1598452",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "sourceFile": "Tim/Bulgarije/Flag_of_Bulgaria.jpg",
+    "sourceSha256": "498f3bf672f4483d20950eacaa958df415f1d541aa40725b901bbb7ec33aa937",
+    "assetSha256": "8ad65807116d8e01a6e42f49e992d67aa8d64f977f8a438cd7e2828363433058",
+    "conversion": "Downscaled to fit 1920x1280 for browser memory use; PNG output"
+  },
+  {
+    "code": "TW",
+    "name": "Chinese Taipei",
+    "sourceFile": "Tim/Chinese Taipei/TPE-NOC-flag-CMYK--horizontal (1).jpg",
+    "sourceSha256": "76acb562a163839b0eb0738455ae7291258131b3049ca77ed94e84f566c25dc4",
+    "assetSha256": "65abacfea8e4a50a7efdcf3df77d62e2cdeff15c2ad8a3b7be16f180e111d2b3",
+    "conversion": "Downscaled to fit 1920x1280 for browser memory use; PNG output"
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "sourceFile": "Tim/Cyprus/CYPRUS FLAG.jpg",
+    "sourceSha256": "e3fdc3ef98f53eed6225d6099cadcf063cd29f8ec12995b8da794ee3ede13d54",
+    "assetSha256": "e3fdc3ef98f53eed6225d6099cadcf063cd29f8ec12995b8da794ee3ede13d54",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "sourceFile": "Tim/Tjechië/CZE flag.png",
+    "sourceSha256": "1dade5465cde0741fc69fe78c0776795f0299f6ac4532bfaca4ab8f5bca0244c",
+    "assetSha256": "1dade5465cde0741fc69fe78c0776795f0299f6ac4532bfaca4ab8f5bca0244c",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "sourceFile": "Tim/Denemarken/DEN_Horizontal.png",
+    "sourceSha256": "ec34fff3b6aedfa57204fc680a5379f0c3f5467659e33304d72f66dd7e8681ec",
+    "assetSha256": "1a63909a6c9d11bd3c2f5843333c248a5d1d6354106fc49a29ba449372bf8a4b",
+    "conversion": "Removed surrounding reference-sheet margins; crop 922x701+110+241"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "sourceFile": "Tim/Egypte/Flag_of_Egypt.jpg",
+    "sourceSha256": "a8f0aaed6827c071649518671bc7ba15ed843bb672b9813c6bbd6a343b24d1b3",
+    "assetSha256": "f97a04aaaf2d130157ce7a30566d1951ba8303fcc67ba44e6934f2d3a1da67ae",
+    "conversion": "Downscaled to fit 1920x1280 for browser memory use; PNG output"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "sourceFile": "Tim/Frankrijk/French flag colors approved by MAEA.pdf",
+    "sourceSha256": "b9fdce294d22d3c40629330d94f6e8f340137821a207407c21ad3570766e647d",
+    "assetSha256": "6198eb0295b1496ff8cb81cf99d61db8f40c4b61de9f716ce0eca87ad2bdf318",
+    "conversion": "Horizontal flag only; original PDF RGB percentages and 3:2 proportions"
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "sourceFile": "Tim/Georgië/Flag_of_Georgia.svg.jpg",
+    "sourceSha256": "95673c8fef269c7c48d9ae2a15535c86cc4bf68e2286194d8c98138b7c342f21",
+    "assetSha256": "2b8d7b23d3fc139912c95abaa1a889bba9d0dd57de2d3bf6df6620c464540b9f",
+    "conversion": "Downscaled to fit 1920x1280 for browser memory use; PNG output"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "sourceFile": "Tim/Duitsland/GER National flag.jpg",
+    "sourceSha256": "442d73d3cbf8f684ad0d9f74218f0929f82a1d5dfa50d9baef7ff36f365defb1",
+    "assetSha256": "442d73d3cbf8f684ad0d9f74218f0929f82a1d5dfa50d9baef7ff36f365defb1",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "GB",
+    "name": "Great Britain",
+    "sourceFile": "Tim/Groot Brittanië/GBR Flag.png",
+    "sourceSha256": "549ada8efc6c01039cacbc58244951ddca3a2efaa25333d15f0694b88abeece3",
+    "assetSha256": "549ada8efc6c01039cacbc58244951ddca3a2efaa25333d15f0694b88abeece3",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "sourceFile": "Tim/Griekenland/GRE Flag.jpg",
+    "sourceSha256": "d6876bac5ac09a9a30a03ca2fc172759f4eacf5c45567b48597685402e119efb",
+    "assetSha256": "d31c14653cc70837d8084e33fc6aea913038211b08a98059ee55d6923c467917",
+    "conversion": "Downscaled to fit 1920x1280 for browser memory use; PNG output"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "sourceFile": "Tim/Guatamala/vlag guatamala.jpeg",
+    "sourceSha256": "9652e4c5cce233920301c4667dda11225fd2c46c27bd480d29c082a3d5841517",
+    "assetSha256": "9652e4c5cce233920301c4667dda11225fd2c46c27bd480d29c082a3d5841517",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "sourceFile": "Tim/Hungary/flag-of-hungary.jpg",
+    "sourceSha256": "60ceb0ef9b0b4c05cf411df3f990415513931da02b3f5ff11a5dbcf2fb65694f",
+    "assetSha256": "60ceb0ef9b0b4c05cf411df3f990415513931da02b3f5ff11a5dbcf2fb65694f",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "sourceFile": "Tim/IJsland/ISLflag.svg",
+    "sourceSha256": "225f2c249cb0ae48bb954cc768c49f3f7143ae6150c0a44f58cedbb6a9a995b4",
+    "assetSha256": "225f2c249cb0ae48bb954cc768c49f3f7143ae6150c0a44f58cedbb6a9a995b4",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "sourceFile": "Tim/Ierland/irishflag.jpg",
+    "sourceSha256": "cbc4b513d34dc910d910d55b4c654c7f5fbf39f840d808372cd06aee2c193a25",
+    "assetSha256": "a486147cda76fb2580420a9819f304d75b20c438e754f72bddc6bf9ed251d8d8",
+    "conversion": "Downscaled to fit 1920x1280 for browser memory use; PNG output"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "sourceFile": "Tim/Israël/Israel flag.png",
+    "sourceSha256": "904ef0ce69d85e3080e0114a49138974a405d72a0ccf766f1b5a923ec29d796e",
+    "assetSha256": "904ef0ce69d85e3080e0114a49138974a405d72a0ccf766f1b5a923ec29d796e",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "sourceFile": "Tim/Italië/download FLAG ITA.webp",
+    "sourceSha256": "af3b02834aeb04eb241bfaa7905c6e7263e464177dcf8d8d0d422b078717fa93",
+    "assetSha256": "af3b02834aeb04eb241bfaa7905c6e7263e464177dcf8d8d0d422b078717fa93",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "sourceFile": "Tim/Japan/Code_Generated_Image_JPN flag.png",
+    "sourceSha256": "faac79cb2ac0d24f2f64408760d559fa1eb4923515fbbe266f94ae81871b5953",
+    "assetSha256": "faac79cb2ac0d24f2f64408760d559fa1eb4923515fbbe266f94ae81871b5953",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "sourceFile": "Tim/Liechtenstein/Flag_Liechtenstein.jpg",
+    "sourceSha256": "20e9da41b0bc7a42928a89ab4c5bf37bcee4b41ce6b2f0094615f0e72f9383a9",
+    "assetSha256": "20e9da41b0bc7a42928a89ab4c5bf37bcee4b41ce6b2f0094615f0e72f9383a9",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "sourceFile": "Tim/Nederland/National Flag NED.png",
+    "sourceSha256": "e5942fb46e117adf9e8cbc5c7143f8d57065cc22857bb308bea4b19fddfc9def",
+    "assetSha256": "e5942fb46e117adf9e8cbc5c7143f8d57065cc22857bb308bea4b19fddfc9def",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "sourceFile": "Tim/Noorwegen/Flag Norway.jpg",
+    "sourceSha256": "8f381e8bb8d5d630e2d23572713967a1230c73e02db98618338b9ab07e4c21b8",
+    "assetSha256": "3a2b9d3515bdc7b1a9932d6bee2f1ff61418d6a18452087fa7708b3ce608cd48",
+    "conversion": "Downscaled to fit 1920x1280 for browser memory use; PNG output"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "sourceFile": "Tim/Portugal/POR.jpg",
+    "sourceSha256": "fc356d172a1888e33736a0362a4e121b3ba2e4a8211630438bdf239b2187aa9f",
+    "assetSha256": "fc356d172a1888e33736a0362a4e121b3ba2e4a8211630438bdf239b2187aa9f",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "sourceFile": "Tim/Puerto Rico/Puerto rico vlag.png",
+    "sourceSha256": "895d8495e2976c941aa4ea8bb0b7901609023c2cd6675011932eda58b1dde4fe",
+    "assetSha256": "895d8495e2976c941aa4ea8bb0b7901609023c2cd6675011932eda58b1dde4fe",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "KR",
+    "name": "Republic of Korea",
+    "sourceFile": "Tim/Korea/(KOR) National Flag.png",
+    "sourceSha256": "089d58e7067ddff2952e8cd6be3bd4ac7ebde7a55862ee56330c99ac356090ec",
+    "assetSha256": "2db14f37d3bb7bd10f13c756e3e0a5d9edf3d06fe60143522701f4012b0207cf",
+    "conversion": "Downscaled to fit 1920x1280 for browser memory use; PNG output"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "sourceFile": "Tim/Roemenië/flag rou.png",
+    "sourceSha256": "10740ecdb13c48554da165abae3ae1565e6026a6b409e1b3c7ba2dc2175a32e9",
+    "assetSha256": "10740ecdb13c48554da165abae3ae1565e6026a6b409e1b3c7ba2dc2175a32e9",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "sourceFile": "Tim/Serbia/SRB National Flag.jpg",
+    "sourceSha256": "2dc88ee7d9b2878d872230a084ba105b70688ab0c2bc6ddaab4b1f1d947d874f",
+    "assetSha256": "2dc88ee7d9b2878d872230a084ba105b70688ab0c2bc6ddaab4b1f1d947d874f",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "sourceFile": "Tim/Singapore/Singapore flag.jpg",
+    "sourceSha256": "3479ad5bc8e84fdbbfc9db80d5b1e68725fe3bf0fd1275094babf2af89809c40",
+    "assetSha256": "7177ec6025627fde7869ebc0653653376ad789e416a202aca6f92b639f36e61a",
+    "conversion": "Downscaled to fit 1920x1280 for browser memory use; PNG output"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "sourceFile": "Tim/Slovakia/Flag_of_Slovakia.svg.png",
+    "sourceSha256": "1c864b34b3eff2e64ae047e5b2c25855dcf1adcb41ecaa6921d7389d1271dc0b",
+    "assetSha256": "1c864b34b3eff2e64ae047e5b2c25855dcf1adcb41ecaa6921d7389d1271dc0b",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "sourceFile": "Tim/Spanje/ESP_FLAG copia.png",
+    "sourceSha256": "1b16b2147c05ed095b43dec568de24d22ac67f05a005ae04f871f8126c9ebac3",
+    "assetSha256": "1b16b2147c05ed095b43dec568de24d22ac67f05a005ae04f871f8126c9ebac3",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "sourceFile": "Tim/Zweden/Swedish flag.png",
+    "sourceSha256": "b4e1257c5aea0fdeba4bcf0d86964f5ad9c6f5621df32486a3e4e266802d6637",
+    "assetSha256": "b4e1257c5aea0fdeba4bcf0d86964f5ad9c6f5621df32486a3e4e266802d6637",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "sourceFile": "Tim/Thailand/Thailand National Flag.jpg",
+    "sourceSha256": "4645d6ea8c9ca3ecb6d877f16c3bcfc078dcd54db5c2613d215cebbf19809a29",
+    "assetSha256": "4645d6ea8c9ca3ecb6d877f16c3bcfc078dcd54db5c2613d215cebbf19809a29",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "TR",
+    "name": "Türkiye",
+    "sourceFile": "Tim/Turkije/Flag_of_Türkiye.png",
+    "sourceSha256": "4dc0d81a0a4137509c5b3e0d393d27f02d1fd074ef8b3693567656d8bf303d4c",
+    "assetSha256": "4dc0d81a0a4137509c5b3e0d393d27f02d1fd074ef8b3693567656d8bf303d4c",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "US",
+    "name": "United States of America",
+    "sourceFile": "Tim/USA/flag-USA.png",
+    "sourceSha256": "7a5c94c4f66f591ef66d4f359338839371726956bd27ab67bc0214bf52081a95",
+    "assetSha256": "7a5c94c4f66f591ef66d4f359338839371726956bd27ab67bc0214bf52081a95",
+    "conversion": "Unmodified source file"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "sourceFile": "Tim/Zimbabwe/Flag_of_Zimbabwe.svg",
+    "sourceSha256": "81548edd2e9340b07f67219b2185ececb93466e4e4da96cbea3e61f0dca65067",
+    "assetSha256": "81548edd2e9340b07f67219b2185ececb93466e4e4da96cbea3e61f0dca65067",
+    "conversion": "Unmodified source file"
+  }
+]

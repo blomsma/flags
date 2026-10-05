@@ -4,6 +4,7 @@ COPY package.json package-lock.json ./
 RUN npm ci --no-audit --no-fund
 COPY index.html control.html tsconfig.json vite.config.ts server.ts ./
 COPY src ./src
+COPY public ./public
 RUN npm run build
 FROM node:22.22.0-alpine@sha256:e4bf2a82ad0a4037d28035ae71529873c069b13eb0455466ae0bc13363826e34 AS runtime
 WORKDIR /app
